@@ -1,0 +1,9 @@
+ID: 16, Nombre: Roberto, Apellido Paterno: Huerta, Apellido Materno: Gutierrez, Puesto: Gerente, Sexo: HOMBRE
+ID: 47, Nombre: Carlos, Apellido Paterno: Cota, Apellido Materno: Alvarez, Puesto: Conserje, Sexo: HOMBRE
+ID: 52, Nombre: Sonia, Apellido Paterno: Huerta, Apellido Materno: Villalobos, Puesto: Gerente, Sexo: MUJER
+ID: 153, Nombre: Pedro, Apellido Paterno: Herrera, Apellido Materno: Chavez, Puesto: Empleado Gral, Sexo: HOMBRE
+ID: 189, Nombre: Roberto, Apellido Paterno: Villalobos, Apellido Materno: Casas, Puesto: Jefe, Sexo: HOMBRE
+ID: 286, Nombre: Carlos, Apellido Paterno: Chavez, Apellido Materno: Herrera, Puesto: Empleado Gral, Sexo: HOMBRE
+ID: 382, Nombre: Maria, Apellido Paterno: Alvarez, Apellido Materno: Casas, Puesto: Conserje, Sexo: MUJER
+ID: 476, Nombre: Cristina, Apellido Paterno: Sanchez, Apellido Materno: Gutierrez, Puesto: Conserje, Sexo: MUJER
+ID: 498, Nombre: Sandra, Apellido Paterno: Alvarez, Apellido Materno: Casas, Puesto: Guardia, Sexo: MUJER
